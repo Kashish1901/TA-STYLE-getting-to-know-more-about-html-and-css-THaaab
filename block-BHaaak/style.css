@@ -1,0 +1,21 @@
+
+img{
+    width: 250px;
+    height: 250px;
+}
+h3{
+    text-align: center;
+
+}
+h1{
+    font-size: 56px;
+}
+body{
+    background-color: yellow;
+}
+h2{
+    color: blueviolet;
+}
+.btn{
+    background-color: green;
+}
